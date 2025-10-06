@@ -1,3 +1,4 @@
 # Calculator
 Simple Calculator Using TKINTER
-![Screenshot 2025-10-06 153619](https://github.com/user-attachments/assets/b5179dd3-e333-4913-b0ad-59bd8963fa45)
+
+<img width="1019" height="628" alt="image" src="https://github.com/user-attachments/assets/8ba5d9f8-0653-4337-bfe2-7b5c3d406db9" />
